@@ -1,0 +1,9 @@
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\bin\Debug\netcoreapp3.1\TestPlanning.Common.deps.json
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\bin\Debug\netcoreapp3.1\TestPlanning.Common.dll
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.AssemblyInfoInputs.cache
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.AssemblyInfo.cs
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\bin\Debug\netcoreapp3.1\TestPlanning.Common.pdb
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.dll
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.pdb
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.csprojAssemblyReference.cache
+D:\Projects\New Architecture POC\TestPlanning.POC\TestPlanning.Common\obj\Debug\netcoreapp3.1\TestPlanning.Common.csproj.CoreCompileInputs.cache
